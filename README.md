@@ -21,4 +21,4 @@ Most of the testing for this application was using postman to send requests and 
 Reflection
 How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
 
-I know clearly grasp the concept of what exactly full stack development means. Before this class this that term was just a fancy qualification I saw on jobs in my field. Being able to add this course to my resume will improve my chances of getting jobs which list fullstack as a desired skill.
+I now clearly grasp the concept of what exactly full stack development means. Before this class this that term was just a fancy qualification I saw on jobs in my field. Being able to add this course to my resume will improve my chances of getting jobs which list fullstack as a desired skill.
